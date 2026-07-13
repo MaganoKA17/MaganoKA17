@@ -78,11 +78,19 @@ https://github.com/MaganoKA17/Qaphela
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="200em" src="https://github-readme-stats-five-pi-37.vercel.app/api?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaganoKA17&layout=compact&theme=github_dark&hide_border=true"/>
+<!-- <img height="170em" src="https://github-readme-stats-five-pi-37.vercel.app/api?username=MaganoKA17&layout=compact&theme=github_dark&hide_border=true"/> -->
+<img height="200em" src="https://github-readme-stats-five-pi-37.vercel.app/api/top-langs/?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </p>
+
+<!-- <p align="center">
+
+<img height="170em" src="https://github-readme-stats-five-pi-37.vercel.app/api/top-langs/?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true"/>
+
+
+</p> -->
 
 ---
 
