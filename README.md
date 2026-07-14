@@ -74,14 +74,14 @@ I'm constantly improving my engineering skills through personal projects, open-s
   <a href="https://github.com/MaganoKA17">
     <img
       height="180em"
-      src="https://github-readme-stats-five-pi-37.vercel.app/api?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats-five-pi-37.vercel.app/api?username=MaganoKA17&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
     />
   </a>
 
   <a href="https://github.com/MaganoKA17">
     <img
       height="180em"
-      src="https://github-readme-stats-five-pi-37.vercel.app/api/top-langs/?username=MaganoKA17&layout=compact&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats-five-pi-37.vercel.app/api/top-langs/?username=MaganoKA17&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
     />
   </a>
 </p>
