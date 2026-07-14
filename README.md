@@ -92,7 +92,7 @@ I'm constantly improving my engineering skills through personal projects, open-s
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=MaganoKA17&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MaganoKA17&theme=github-dark&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -102,7 +102,7 @@ I'm constantly improving my engineering skills through personal projects, open-s
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaganoKA17&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaganoKA17&theme=tokyo-night&cache_seconds_1800"/>
 
 </p>
 
